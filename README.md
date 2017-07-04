@@ -1,0 +1,2 @@
+# TXScrollLabelView--Demo
+使用第三方库TXScrollLabelView类似公告栏通知的效果
